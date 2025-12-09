@@ -1,9 +1,11 @@
 # Dual Band Matching Designer
 [English](./README.md) | [中文文档](./README_CN.md)
+
 A Streamlit-based tool for designing dual-band impedance matching networks using Pi-network synthesis and conjugate matching techniques.
 
 ## Features
-![image](image.png)
+<img src="image.png"  width="100%">
+
 - **Dual-Band Matching**: Supports arbitrary frequency pairs.
 - **Parameter Scanning**: Automatically scans auxiliary transmission line lengths to find optimal solutions.
 - **Interactive Filtering**: Filter designs based on manufacturability constraints (e.g., max impedance).
