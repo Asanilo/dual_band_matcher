@@ -1,9 +1,9 @@
 # Dual Band Matching Designer
-
+[English](./README.md) | [中文文档](./README_CN.md)
 A Streamlit-based tool for designing dual-band impedance matching networks using Pi-network synthesis and conjugate matching techniques.
 
 ## Features
-![image](./image.png)
+![image](image.png)
 - **Dual-Band Matching**: Supports arbitrary frequency pairs.
 - **Parameter Scanning**: Automatically scans auxiliary transmission line lengths to find optimal solutions.
 - **Interactive Filtering**: Filter designs based on manufacturability constraints (e.g., max impedance).
@@ -11,8 +11,8 @@ A Streamlit-based tool for designing dual-band impedance matching networks using
 
 ##  Streamlit Community Cloud
 
-This app is ready for deployment on Streamlit Community Cloud.
-
+This app is deployed on Streamlit Cloud for easy sharing.
+[Streamlit WebApp is here.](https://asanilo-dual-band-matcher-streamlit-app-ghopyu.streamlit.app/)
 
 ## Local Development
 
